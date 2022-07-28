@@ -1,5 +1,4 @@
 
-<script>
     const btn= document.getElementById("btn");
     const quote= document.getElementById("quote");
     const person= document.getElementById("person");
@@ -42,4 +41,3 @@
    person.innerText=quotes[random].person;
    
    })
-   </script>
